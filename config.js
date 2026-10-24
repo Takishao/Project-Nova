@@ -1,0 +1,1 @@
+const paymentMode = "basic";
