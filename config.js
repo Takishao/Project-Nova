@@ -1,1 +1,1 @@
-const paymentMode = "basic";
+const paymentMode = "gateway";
